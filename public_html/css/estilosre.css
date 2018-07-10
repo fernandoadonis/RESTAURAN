@@ -1,0 +1,68 @@
+
+   #cabecera{
+    font-size: 24px;
+    font-family: arial black;
+    color: #17A589;
+    text-align: center
+}
+
+ul li{
+    
+    list-style-type: none;
+    background: #17A589;
+    display: inline;
+    font-size: 10px;
+    font-family: broadway;
+    padding: 10px;
+    border-radius: 10px;
+
+      }
+           
+     #menu{  
+         text-align: center
+}
+          
+      img{
+          border-radius: 10px;
+          
+               }
+      #cuerpo{
+          text-align: center;
+          font-size: 18px;
+      }
+      
+      #pie {
+          text-align: center;
+          background: #17a589;
+   
+      }   form{
+    
+    width: 800px;
+    background:  #17A589;
+    padding: 5px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+        
+}  
+forn div {
+    margin-top: 1em;
+    
+}  
+label {
+    display: inline-block;
+    width: 200px;
+    text-align: left;
+     
+}
+input texaria{
+    width:200px;
+    font-family: arial;
+    font-size: 12px;
+    
+        
+        
+}
+textArea{
+    vertical-align: middle;
